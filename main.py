@@ -21,7 +21,6 @@ with st.sidebar:
                 [Kamran Feroz](https://www.linkedin.com/in/kamranferoz/)
 
                 #### Powered by:
-                [OpenAI](https://openai.com/)
                 [Langchain](https://github.com/hwchase17/langchain)\n
 
                 #### Source code:
