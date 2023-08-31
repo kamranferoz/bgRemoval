@@ -62,4 +62,4 @@ if my_upload is not None:
     else:
         fix_image(upload=my_upload)
 else:
-    fix_image("./KF2.png")
+    fix_image("./kf2.png")
