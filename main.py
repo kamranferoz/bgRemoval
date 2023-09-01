@@ -16,7 +16,7 @@ st.sidebar.write("## Upload and download :gear:")
 
 # Include sidebar with credentials
 with st.sidebar:
-    components.html(embed_components['linkedin'],height=310)
+    components.html(embed_component['linkedin'],height=310)
     st.markdown('Clean image background (V 0.1)')
     st.markdown(""" 
                 #### Let's connect:
