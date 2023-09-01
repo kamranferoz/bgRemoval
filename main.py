@@ -3,7 +3,7 @@ from rembg import remove
 from PIL import Image
 from io import BytesIO
 import base64
-import streamlit.component.v1 as components
+import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide", page_title="Image Background Remover")
 
