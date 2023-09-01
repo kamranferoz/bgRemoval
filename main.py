@@ -1,10 +1,10 @@
-from constant import *
+# from constant import *
 import streamlit as st
 from rembg import remove
 from PIL import Image
 from io import BytesIO
 import base64
-import streamlit.components.v1 as components
+# import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide", page_title="Image Background Remover")
 
@@ -17,7 +17,7 @@ st.sidebar.write("## Upload and download :gear:")
 
 # Include sidebar with credentials
 with st.sidebar:
-    components.html(embed_component['linkedin'],height=310)
+    # components.html(embed_component['linkedin'],height=310)
     st.markdown('Clean image background (V 0.1)')
     st.markdown(""" 
                 #### Let's connect:
